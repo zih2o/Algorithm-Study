@@ -9,7 +9,7 @@
   3. 본인 이름으로 `branch` 생성
     * ex) jisu
   4. 작업 후 `commit`, `push`
-    * 파일 경로: programmers/본인이름/주제/문제이름   **ex) programmers/jisu/stack_queue/같은숫자는싫어.py**
+    * 파일 경로: programmers/주제/본인이름/문제이름   **ex) programmers/stack_queue/jisu/같은숫자는싫어.py**
     * commit 양식: "[Programmers]주제-문제이름"
   5. 본인 계정 github 저장소에서 `PR(Pull Requst)`
 ## Weekly Meeting
