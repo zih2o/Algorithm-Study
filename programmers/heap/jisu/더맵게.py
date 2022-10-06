@@ -20,3 +20,5 @@ def solution(scoville, K):
         heapq.heappush(scoville, new_food)
 
     return -1
+
+# 얼떨결에 원혁님과 함께 풀이ㅎ
