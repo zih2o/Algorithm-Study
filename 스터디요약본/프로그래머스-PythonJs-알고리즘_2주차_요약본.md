@@ -6,7 +6,7 @@
 |---|---|---|---|---|---|
 |김유정|<ul><li>기초문제</li></ul>|<ul><li>체육복</li><li>기초문제</li></ul>|<ul><li>기초문제</li><li>기초문제</li></ul>|<ul><li>기초문제</li><li>기초문제</li></ul>|<ul><li>기초문제</li></ul>|
 |박지수|<ul><li>소수찾기</li><li>카펫</li></ul>|<ul><li>구명보트</li><li>큰 수 만들기</li></ul>|<ul><li>입국심사</li></ul>|<ul><li>타겟넘버</li><li>네트워크</li></ul>|<ul><li>가장 먼 노드</li><li></li></ul>|
-|유상우|<ul><li>기초문제</li></ul>|<ul><li>큰수만들기</li><li>기초문제</li></ul>|<ul><li>기초문제</li></ul>|<ul><li>기초문제</li></ul>|<ul><li>기초문제</li></ul>|
+|유상우|<ul><li>기초문제</li><li>최소직사각형</li></ul>|<ul><li>큰수만들기</li><li>기초문제</li></ul>|<ul><li>기초문제</li></ul>|<ul><li>기초문제</li></ul>|<ul><li>기초문제</li></ul>|
 |장원혁|<ul><li>모의고사</li><li>최소직사각형</li><li>카펫</li></ul>|<ul><li>조이스틱</li><li>체육복</li></ul>|<ul><li>기초문제</li></ul>|<ul><li>타겟넘버</li><li>네트워크</li></ul>|<ul><li>가장 먼 노드</li></ul>|
 |한승주|<ul><li>소수찾기</li><li>최소직사각형</li></ul>|<ul><li>체육복</li><li>큰 수 만들기</li></ul>|<ul><li>입국심사</li></ul>|<ul><li>게임 맵 최단거리</li></ul>|<ul><li>가장 먼 노드</li><li></li></ul>|
 
