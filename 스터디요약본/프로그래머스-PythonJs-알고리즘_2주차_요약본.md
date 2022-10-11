@@ -1,11 +1,13 @@
-# <center>ÇÁ·Î±×·¡¸Ó½º Python + JS ¾Ë°í¸®Áò <br> ½ºÅÍµð 2ÁÖÂ÷ ¿ä¾àº»</center>
-> GithubÀ» ½ºÅÍµð ±âº» ÀúÀå¼Ò·Î »ç¿ëÇß½À´Ï´Ù. 
+# <center>í”„ë¡œê·¸ëž˜ë¨¸ìŠ¤ Python + JS ì•Œê³ ë¦¬ì¦˜ <br> ìŠ¤í„°ë”” 2ì£¼ì°¨ ìš”ì•½ë³¸</center>
+> Githubì„ ìŠ¤í„°ë”” ê¸°ë³¸ ì €ìž¥ì†Œë¡œ ì‚¬ìš©í–ˆìŠµë‹ˆë‹¤. 
 :point_right: [Repository]("https://github.com/zih2o/Algorithm-Study) 
 
-||<center>±Ý<br>(brute-force)</center>|<center>¿ù<br>(greedy)</center>|<center>È­<br>(ÀÌºÐÅ½»ö)</center>|<center>¼ö<br>(DFS/BFS)</center>|<center>¸ñ<br>(graph)</center>|
+||<center>ê¸ˆ<br>(brute-force)</center>|<center>ì›”<br>(greedy)</center>|<center>í™”<br>(ì´ë¶„íƒìƒ‰)</center>|<center>ìˆ˜<br>(DFS/BFS)</center>|<center>ëª©<br>(graph)</center>|
 |---|---|---|---|---|---|
-|±èÀ¯Á¤|<ul><li>±âÃÊ¹®Á¦</li><li></li></ul>|<ul><li>Ã¼À°º¹</li><li>±âÃÊ¹®Á¦</li></ul>|<ul><li>±âÃÊ¹®Á¦</li><li>±âÃÊ¹®Á¦</li></ul>|<ul><li>±âÃÊ¹®Á¦</li><li>±âÃÊ¹®Á¦</li></ul>|<ul><li>±âÃÊ¹®Á¦</li><li></li></ul>|
-|¹ÚÁö¼ö|<ul><li>¼Ò¼öÃ£±â</li><li>Ä«Æê</li></ul>|<ul><li>±¸¸íº¸Æ®</li><li>Å« ¼ö ¸¸µé±â</li></ul>|<ul><li>ÀÔ±¹½É»ç</li></ul>|<ul><li>Å¸°Ù³Ñ¹ö</li><li>³×Æ®¿öÅ©</li></ul>|<ul><li>°¡Àå ¸Õ ³ëµå</li><li></li></ul>|
-|À¯»ó¿ì|<ul><li>±âÃÊ¹®Á¦</li></ul>|<ul><li>Å«¼ö¸¸µé±â</li><li>±âÃÊ¹®Á¦</li></ul>|<ul><li>±âÃÊ¹®Á¦</li></ul>|<ul><li>±âÃÊ¹®Á¦</li></ul>|<ul><li>±âÃÊ¹®Á¦</li></ul>|
-|Àå¿øÇõ|<ul><li>¸ðÀÇ°í»ç</li><li>ÃÖ¼ÒÁ÷»ç°¢Çü</li><li>Ä«Æê</li></ul>|<ul><li>Á¶ÀÌ½ºÆ½</li><li>Ã¼À°º¹</li></ul>|<ul><li>±âÃÊ¹®Á¦</li></ul>|<ul><li>Å¸°Ù³Ñ¹ö</li><li>³×Æ®¿öÅ©</li></ul>|<ul><li>°¡Àå ¸Õ ³ëµå</li></ul>|
-|ÇÑ½ÂÁÖ|<ul><li>¼Ò¼öÃ£±â</li><li>ÃÖ¼ÒÁ÷»ç°¢Çü</li></ul>|<ul><li>Ã¼À°º¹</li><li>Å« ¼ö ¸¸µé±â</li></ul>|<ul><li>ÀÔ±¹½É»ç</li></ul>|<ul><li>°ÔÀÓ ¸Ê ÃÖ´Ü°Å¸®</li></ul>|<ul><li>°¡Àå ¸Õ ³ëµå</li><li></li></ul>|
+|ê¹€ìœ ì •|<ul><li>ê¸°ì´ˆë¬¸ì œ</li><li></li></ul>|<ul><li>ì²´ìœ¡ë³µ</li><li>ê¸°ì´ˆë¬¸ì œ</li></ul>|<ul><li>ê¸°ì´ˆë¬¸ì œ</li><li>ê¸°ì´ˆë¬¸ì œ</li></ul>|<ul><li>ê¸°ì´ˆë¬¸ì œ</li><li>ê¸°ì´ˆë¬¸ì œ</li></ul>|<ul><li>ê¸°ì´ˆë¬¸ì œ</li><li></li></ul>|
+|ë°•ì§€ìˆ˜|<ul><li>ì†Œìˆ˜ì°¾ê¸°</li><li>ì¹´íŽ«</li></ul>|<ul><li>êµ¬ëª…ë³´íŠ¸</li><li>í° ìˆ˜ ë§Œë“¤ê¸°</li></ul>|<ul><li>ìž…êµ­ì‹¬ì‚¬</li></ul>|<ul><li>íƒ€ê²Ÿë„˜ë²„</li><li>ë„¤íŠ¸ì›Œí¬</li></ul>|<ul><li>ê°€ìž¥ ë¨¼ ë…¸ë“œ</li><li></li></ul>|
+|ìœ ìƒìš°|<ul><li>ê¸°ì´ˆë¬¸ì œ</li></ul>|<ul><li>í°ìˆ˜ë§Œë“¤ê¸°</li><li>ê¸°ì´ˆë¬¸ì œ</li></ul>|<ul><li>ê¸°ì´ˆë¬¸ì œ</li></ul>|<ul><li>ê¸°ì´ˆë¬¸ì œ</li></ul>|<ul><li>ê¸°ì´ˆë¬¸ì œ</li></ul>|
+|ìž¥ì›í˜|<ul><li>ëª¨ì˜ê³ ì‚¬</li><li>ìµœì†Œì§ì‚¬ê°í˜•</li><li>ì¹´íŽ«</li></ul>|<ul><li>ì¡°ì´ìŠ¤í‹±</li><li>ì²´ìœ¡ë³µ</li></ul>|<ul><li>ê¸°ì´ˆë¬¸ì œ</li></ul>|<ul><li>íƒ€ê²Ÿë„˜ë²„</li><li>ë„¤íŠ¸ì›Œí¬</li></ul>|<ul><li>ê°€ìž¥ ë¨¼ ë…¸ë“œ</li></ul>|
+|í•œìŠ¹ì£¼|<ul><li>ì†Œìˆ˜ì°¾ê¸°</li><li>ìµœì†Œì§ì‚¬ê°í˜•</li></ul>|<ul><li>ì²´ìœ¡ë³µ</li><li>í° ìˆ˜ ë§Œë“¤ê¸°</li></ul>|<ul><li>ìž…êµ­ì‹¬ì‚¬</li></ul>|<ul><li>ê²Œìž„ ë§µ ìµœë‹¨ê±°ë¦¬</li></ul>|<ul><li>ê°€ìž¥ ë¨¼ ë…¸ë“œ</li><li></li></ul>|
+
+
