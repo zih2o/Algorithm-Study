@@ -1,0 +1,19 @@
+function solution(n, left, right) {
+    var answer = [];
+    for(let L = left; L<=right ; L++){
+        if(L%n == n-1)
+        answer.push(n);
+        else if(L%n == 0)
+        answer.push(Math.floor(L/n)+1)
+        else{
+            let diff = (Math.floor(L/n)+1)
+            if(diff <= L%n)
+                answer.push(L%n + 1);
+            else
+                answer.push(diff);
+        }            
+    }
+   
+    console.log(answer);
+    return answer;
+}
